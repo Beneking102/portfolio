@@ -10,13 +10,13 @@
 	font-family: "Poppins", serif;
 	scroll-behavior: smooth;
 	scrollbar-width: thin;
-	scrollbar-color: rgba(99, 102, 241, 0.3) rgba(12, 5, 53, 0.356);
+	scrollbar-color: rgba(8, 230, 82, 0.3) rgba(1, 49, 16, 0.356);
 }
 
 html,
 body {
 	overflow-x: hidden;
-	background: #030014;
+	background: #001f0e;
 	scroll-behavior: smooth !important;
 }
 
